@@ -30,4 +30,4 @@ README.md # Project documentation
 - **Sophia Pannu** — Lead researcher & developer  
 
 # Acknowledgments  
-- **Tim Scargill (Duke University)** — Research mentor and advisor  
+- **Timothy Scargill (Duke University)** — Research mentor and advisor  
